@@ -1,0 +1,7 @@
+.grey-bg {
+    background-color: lightgray;
+}
+
+.float {
+    display: flex;
+}
