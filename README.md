@@ -1,3 +1,13 @@
+Steps for Cloning App:
+1. Press clone button in GitHub to copy repo
+2. Open your scripting environment (I used Visual Studio Code)
+3. Open the terminal
+4. Run git clone ‘the code URL of the github repo’
+5. Run 'npm init'
+6. Run 'npm start' and the app should launch in a new tab of your browser window.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
