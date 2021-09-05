@@ -1,10 +1,15 @@
 Steps for Cloning App:
-1. Press clone button in GitHub to copy repo
+1. Press clone button in GitHub to copy repo or download zip file
 2. Open your scripting environment (I used Visual Studio Code)
-3. Open the terminal
-4. Run git clone ‘the code URL of the github repo’
-5. Run 'npm init'
-6. Run 'npm start' and the app should launch in a new tab of your browser window.
+4. Open the terminal
+5. Run git clone ‘the code URL of the github repo’
+6. Run 'npm init'
+7. Run 'npm start' and the app should launch in a new tab of your browser window.
+
+
+If you downloaded the zip file, simply open it in the environment and start with step 6.
+
+Please let me know if there are any problems with the cloning/downloading/running process.
 
 
 
