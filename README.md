@@ -9,7 +9,7 @@ Steps for Cloning App and Running Locally:
 7. Run 'npm start' and the app should launch in a new tab of your browser window.
 
 
-If you downloaded the zip file, simply open it in the environment and start with step 6.
+If you downloaded the zip file, simply open it in the environment and start with step 5.
 
 Please let me know if there are any problems with the cloning/downloading/running process.
 
