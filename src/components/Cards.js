@@ -11,7 +11,7 @@ function Cards() {
             <h1>Click on each pitcher to check out their stats</h1>
             <div className='cards__container'>
                 <div className='cards__wrapper'>
-                    <ul className='cards__items'>
+                    <div className='cards__items'>
                         <CardItem
                          src={Charlie}
                          text="Atlanta's verteran ace has been carrying the Braves this season as he leads the pitching staff in wins."
@@ -30,7 +30,7 @@ function Cards() {
                          label='IAN ANDERSON'
                          path='/ian'
                          />
-                    </ul>
+                    </div>
                 </div>
             </div>
         </div>
