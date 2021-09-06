@@ -3,7 +3,7 @@ Steps for Cloning App:
 2. Open your scripting environment (I used Visual Studio Code)
 4. Open the terminal
 5. Run git clone ‘the code URL of the github repo’
-6. Run 'npm init'
+6. Run 'npm install'
 7. Run 'npm start' and the app should launch in a new tab of your browser window.
 
 
