@@ -12,7 +12,7 @@ import Max from './components/pages/Max';
 
 
 function App() {
- document.body.style.zoom = 0.67;
+ document.body.style.zoom = 0.63;
   return (
     <>
       <Router>
