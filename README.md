@@ -1,4 +1,6 @@
-Steps for Cloning App:
+Link to Launch App: https://vogel-braves.web.app/
+
+Steps for Cloning App and Running Locally:
 1. Press clone button in GitHub to copy repo or download zip file
 2. Open your scripting environment (I used Visual Studio Code)
 4. Open the terminal
