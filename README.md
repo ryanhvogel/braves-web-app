@@ -1,4 +1,4 @@
-Link to Launch App: https://vogel-braves.web.app/
+**Link to Launch App: https://vogel-braves.web.app/**
 
 Steps for Cloning App and Running Locally:
 1. Press clone button in GitHub to copy repo or download zip file
